@@ -1,10 +1,3 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  AKASH A YALAWAR · PROFILE README                                   -->
-<!--  SETUP: paste this file as README.md in sparky-speed-5301/          -->
-<!--  sparky-speed-5301 — no other files required, everything loads      -->
-<!--  from hosted services. Optional unlocks are commented below.        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <a href="https://github.com/sparky-speed-5301">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2D4BFF,50:00D4FF,100:FF7A42&section=header&text=Akash%20A%20Yalawar&fontSize=62&fontColor=FFFFFF&desc=Applied%20AI%2FML%20%E2%80%A2%20NLP%20pipelines%20%E2%80%A2%20Honest%20evaluation%20%E2%80%A2%20Clean%20serving&descSize=18&descAlignY=70&animation=fadeIn" width="100%" alt="Akash A Yalawar — Applied AI/ML developer" />
 </a>
@@ -175,37 +168,20 @@ print(me)  # → building NLP systems end to end — train → evaluate → serv
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 </div>
 
-<!-- ════════════════════ CONTRIBUTION VISUALS ════════════════════ -->
+<!-- ════════════════════ CONTRIBUTION SNAKE — real, live from GitHub Actions ════════════════════ -->
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <i>My real commit history — every filled cell is a day I actually pushed code.</i>
+  <i>Watch the snake eat my real contribution graph — regenerated daily by GitHub Actions.</i>
 </p>
 
 <div align="center">
-  <a href="https://github.com/sparky-speed-5301">
-    <img src="https://ghchart.rshah.org/00D4FF/sparky-speed-5301" alt="Akash A Yalawar's real GitHub contribution graph" width="100%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparky-speed-5301/sparky-speed-5301/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sparky-speed-5301/sparky-speed-5301/output/github-contribution-grid-snake.svg" alt="Contribution snake eating my real contribution graph" width="100%" />
+  </picture>
 </div>
-
-<!-- 🐍 WANT THE ANIMATED SNAKE EATING *YOUR REAL* COMMITS? — 3 steps, ~2 minutes
-     1. Commit the two workflow files from this package into the ROOT of your
-        profile repo (sparky-speed-5301/sparky-speed-5301):
-          .github/workflows/snake.yml
-          .github/workflows/profile-3d.yml
-     2. Repo → Actions tab → enable workflows if asked → run
-        "Generate contribution snake" and "Generate 3D contribution skyline" once each.
-     3. Delete the <-- line just below and the --> line at the end of this block,
-        then commit. The snake then eats YOUR graph and refreshes itself daily.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sparky-speed-5301/sparky-speed-5301/output/github-contribution-grid-snake.svg" alt="Contribution snake — live from my real contribution graph" width="100%" />
-</div>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution skyline — my commits as a city" width="100%" />
-</div>
--->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
