@@ -178,8 +178,8 @@ print(me)  # → building NLP systems end to end — train → evaluate → serv
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparky-speed-5301/sparky-speed-5301/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sparky-speed-5301/sparky-speed-5301/output/github-contribution-grid-snake.svg" alt="Contribution snake eating my real contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparky-speed-5301/sparky-speed-5301/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/sparky-speed-5301/sparky-speed-5301/output/github-contribution-grid-snake.svg?v=2" alt="Contribution snake eating my real contribution graph" width="100%" />
   </picture>
 </div>
 
