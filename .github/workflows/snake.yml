@@ -18,9 +18,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Black empty tiles, commits in blue ramp, orange snake
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF7A42&color_dots=%230D1117,%231E40AF,%232D4BFF,%234D6BFF,%2300D4FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF7A42&color_dots=%230D1117,%231E40AF,%232D4BFF,%234D6BFF,%2300D4FF
 
       - name: Push snake to the output branch
         uses: crazy-max/ghaction-github-pages@v4
